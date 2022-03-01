@@ -1,6 +1,4 @@
 # PROJETO AGENDAÍ
- Sistema de gestão de salão de beleza
- 
  Projeto de gestão de salão de beleza
 
 **Trajeto de experiência:**
