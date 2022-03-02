@@ -27,6 +27,13 @@ Possui 2 partes: 1 - Cadastro de cliente e agendamento (interação com o usuár
 
 2 - Através do menu é possível manipular todos os clientes e agendamentos realizados.
 
-Estrutura do banco de dados:
+**Estrutura do banco de dados:**
 
 Ver diagrama (em jpg) anexo.
+
+**Intruções:**
+
+Será necessário instalar as seguintes bibliotecas:
+from datetime import *
+import mysql.connector
+from mysql.connector import Error
