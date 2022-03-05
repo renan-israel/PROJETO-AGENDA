@@ -33,7 +33,10 @@ Ver diagrama (em jpg) anexo.
 
 **Intruções:**
 
-Será necessário instalar as seguintes bibliotecas:
+Necessário instalar:
+- MySQL (sugiro workbench, https://dev.mysql.com/downloads/workbench/ )
+- Python (pycharm, vscode....)
+- Bibliotecas Python:
 from datetime import *
 import mysql.connector
 from mysql.connector import Error
